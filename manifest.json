@@ -1,0 +1,12 @@
+{
+
+  "description": "Context menu for etymonline",
+  "manifest_version": 2,
+  "name": "etymonline-firefox-addon",
+  "version": "0.1",
+  "homepage_url": "https://github.com/neojski/etymonline-firefox-addon",
+  "background": {
+    "scripts": ["main.js"]
+  },
+  "permissions": ["menus", "tabs"]
+}
